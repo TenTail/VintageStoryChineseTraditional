@@ -1,4 +1,4 @@
-﻿{
+{
     "loginfailure-wronglogincode": "登入失敗: 無效的帳號存取碼. 在65分鐘後重試或重新拿取存取碼.",
     "loginfailure-requirelogincode": "您似乎從新的地點登入了，為了確保登入者正確，我們將向您的電子郵件寄送登入許可碼，請在下方重新輸入密碼及登入許可碼。",
     "loginfailure-missingemailorpassword": "登入失敗: 缺少電子郵件或密碼",
@@ -127,9 +127,9 @@
     "block-vine-stationarybasket-*": "藤蔓箱子",
     "block-aged-stationarybasket-*": "陳舊的蘆葦箱子",
     "block-aged2-stationarybasket-*": "毀壞的蘆葦箱子",
-    "block-baskettrap-reed": "蘆葦蘭陷阱",
+    "block-baskettrap-reed": "蘆葦籃陷阱",
     "block-handbooktitle-baskettrap-*": "如何使用",
-    "block-handbooktext-baskettrap-*": "Basket traps will catch many (but not all) baby animals, and smaller adult animals such as chickens and hares.  The trap must be baited with a food item appropriate to the target animal.  The traps do not always work, sometimes the animals will trigger them but not be caught.  Some adult animals can take the food without being caught, or even trample the traps.  Once an animal is successfully caught in the trap, you can carry it in the basket.  To pick up and carry the basket, right-click it: you will need one of your four backpack slots free for this.  To release the carried animal, select the basket (use hotkey <hk>Ctrl</hk> + 1, 2, 3, or 4 depending on which backpack slot it is in).  Right click on the spot where you want it released.<br><br>Be aware that an animal, once trapped, will die after some time, normally 24 hours - if it dies you will get its corpse though.  If you release and re-trap the animal, the death timer only resets if the animal was released and free for at least the same amount of time that it was already in the trap.",
+    "block-handbooktext-baskettrap-*": "蘆葦籃陷阱能夠捕獲許多(但不是全部) 幼年動物和較小的成年動物, 例如雞和野兔. 陷阱必須用動物喜歡的食物作為誘餌. 陷阱並非一定成功, 有時動物會觸發陷阱但不會被捕捉. 一些成年動物可以在不被捕捉的情況下進食, 甚至踐踏陷阱. 一旦動物成功被陷阱捕捉, 你就可以拿起並攜帶蘆葦籃. 要拿起並攜帶蘆葦籃, 請右鍵點擊: 你會需要空出一格背包欄位來完成拿取. 要釋放蘆葦籃裡的動物, 請選擇到該背包欄位(使用<hk>Ctrl</hk> + 1, 2, 3 或 4 選擇到該背包欄位). 右鍵點擊你想釋放的地方. <br><br>請注意, 動物一旦被陷阱捕捉, 就會在一段時間後死亡, 通常是24小時 - 如果動物死亡了, 你將會得到他的屍體. 如果你釋放並重新捕獲動物, 只有當動物被釋放並自由的時間至少與牠在陷阱中的時間相同時, 死亡計時器才會重置.",
     "block-tallplant-coopersreed-*": "香蒲",
     "block-tallplant-papyrus-*": "莎草",
     "block-tallplant-tule-*": "銳藨草",
